@@ -1,0 +1,44 @@
+uuid: "0375529e-75c7-4047-a505-99edc81e6d3f"
+label: "r5flowstate"
+meta:
+  displayName: "R5Flowstate"
+  iconUrl: null
+distributions: []
+r2modman: null
+thunderstore:
+  displayName: "R5Flowstate"
+  categories:
+    legend:
+      label: "Legend"
+    weapon:
+      label: "Weapon"
+    gamemode:
+      label: "Gamemode"
+    map:
+      label: "Map"
+    framework:
+      label: "Framework"
+    modpack:
+      label: "Modpack"
+    client-side:
+      label: "Client-side"
+    server-side:
+      label: "Server-side"
+    cosmetic:
+      label: "Cosmetic"
+    model:
+      label: "Model"
+    ui:
+      label: "UI"
+    sound:
+      label: "Sound"
+    animation:
+      label: "Animation"
+    qol:
+      label: "QoL"
+    ai-generated:
+      label: "AI Generated"
+  sections: {}
+  wikiUrl: "https://r5flowstate.org/host"
+  discordUrl: "https://discord.gg/REQmKk35Kx"
+  shortDescription: "Modded Apex Legends!"
